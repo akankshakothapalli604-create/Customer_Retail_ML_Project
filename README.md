@@ -53,4 +53,4 @@ This project helped in understanding data preprocessing, visualization, model tr
 ## Google Colab Notebook
 
 Open the project in Colab:
-https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK
+https://colab.research.google.com/drive/1EJvktPBpsKVMuHtzxYkbxmis2M0viEqH?usp=sharing
