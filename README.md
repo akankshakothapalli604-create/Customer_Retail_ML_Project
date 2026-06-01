@@ -50,3 +50,7 @@ The performance of Logistic Regression, Decision Tree, and KNN models was compar
 Conclusion
 
 This project helped in understanding data preprocessing, visualization, model training, evaluation techniques, and model comparison in Machine Learning.
+## Google Colab Notebook
+
+Open the project in Colab:
+https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK
